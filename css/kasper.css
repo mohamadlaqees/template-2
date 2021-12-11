@@ -177,7 +177,7 @@ ul{
 /* end heading */
 /* start landing */
 .landing{
-  background-image: url(images/Screenshot\ 2021-11-30\ 180553\ \(2\).png);
+  background-image: url(/images/Screenshot\ 2021-11-30\ 180553\ \(2\).png);
   background-size: cover;
   min-height: 100vh;
   position: relative;
@@ -348,7 +348,7 @@ ul{
   align-items: center;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(images/Screenshot\ 2021-12-02\ 181658.png);
+  background-image: url(/images/Screenshot\ 2021-12-02\ 181658.png);
   background-size: cover;
 }
 .design::before{
@@ -550,7 +550,7 @@ ul{
 .stats{
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(images/stats.png);
+  background-image: url(/images/stats.png);
   background-size: cover;
   position: relative;
   top: -159px;
@@ -728,7 +728,7 @@ ul{
 .quote{
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image:url(images/quote.png) ;
+  background-image:url(/images/quote.png) ;
   background-size: cover;
   position: relative;
   color: white;
@@ -881,7 +881,7 @@ font-size: 18px;
 .subscribe{
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(images/subs.png);
+  background-image: url(/images/subs.png);
   background-size: cover;
   position: relative;
   color: white;
@@ -1028,7 +1028,7 @@ font-size: 18px;
 .footer-2{
   padding-top: clac(var(--section-padding) / 2);
   padding-bottom:  calc(var(--section-padding) / 2);
-  background-image: url(images/subs.png);
+  background-image: url(/images/subs.png);
   background-size: cover;
   position: relative;
   text-align: center;
